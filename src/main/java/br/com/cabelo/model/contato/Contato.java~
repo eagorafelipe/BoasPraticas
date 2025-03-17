@@ -1,0 +1,31 @@
+package br.com.cabelo.model;
+
+public class Contato {
+
+    private final Endereco endereco;
+    private final Telefone telefone;
+    private final Email email;
+
+    public Contato(Endereco endereco, Telefone telefone, Email email) {
+        this.endereco = endereco;
+        this.telefone = telefone;
+        this.email = email;
+    }
+
+    public Endereco getEndereco() {
+        return endereco;
+    }
+
+    public Telefone getTelefone() {
+        return telefone;
+    }
+
+    public Email getEmail() {
+        return email;
+    }
+
+    @Override
+    public String toString() {
+        return "Contato{" + "endereco=" + endereco + ", telefone=" + telefone + ", email=" + email + '}';
+    }
+}
