@@ -1,0 +1,28 @@
+10:18:02.851 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Compressão concluída. 0 arquivos foram comprimidos para logs-2025-05-10.zip
+10:18:02.864 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Nenhum arquivo encontrado para compressão. Arquivo ZIP removido.
+10:18:02.902 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.log.LogManager            [0;39m - Manutenção diária de logs concluída
+10:18:02.969 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - RepositoryImpl.getData executado em 104 ms
+10:18:02.972 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - ServiceImpl.doSomething executado em 109 ms
+10:19:28.536 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Compressão concluída. 0 arquivos foram comprimidos para logs-2025-05-10.zip
+10:19:28.543 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Nenhum arquivo encontrado para compressão. Arquivo ZIP removido.
+10:19:28.547 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.log.LogManager            [0;39m - Manutenção diária de logs concluída
+10:19:28.660 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - RepositoryImpl.getData executado em 110 ms
+10:19:28.663 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - ServiceImpl.doSomething executado em 114 ms
+10:24:05.682 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Compressão concluída. 0 arquivos foram comprimidos para logs-2025-05-10.zip
+10:24:05.692 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Nenhum arquivo encontrado para compressão. Arquivo ZIP removido.
+10:24:05.695 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.log.LogManager            [0;39m - Manutenção diária de logs concluída
+10:24:05.827 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 119 ms
+10:24:05.827 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultInventoryService.isProductAvailable executado em 122 ms
+10:24:05.827 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultOrderService.createOrder executado em 128 ms
+10:24:05.830 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 2 ms
+10:24:05.830 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultInventoryService.isProductAvailable executado em 2 ms
+10:24:05.830 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultOrderService.createOrder executado em 2 ms
+10:27:07.747 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.utils.LogCompressor       [0;39m - Compressão concluída. 0 arquivos foram comprimidos para logs-2025-05-10.zip
+10:27:07.775 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 3 ms
+10:27:07.775 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultInventoryService.isProductAvailable executado em 6 ms
+10:27:07.777 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 1 ms
+10:27:07.825 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultOrderService.createOrder executado em 61 ms
+10:27:07.832 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 2 ms
+10:27:07.832 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultInventoryService.isProductAvailable executado em 2 ms
+10:27:07.833 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - JpaProductRepository.findById executado em 1 ms
+10:27:07.833 [34mINFO [0;39m [      main] [36mb.c.cabelo.v3.container.DIContainer     [0;39m - DefaultOrderService.createOrder executado em 3 ms

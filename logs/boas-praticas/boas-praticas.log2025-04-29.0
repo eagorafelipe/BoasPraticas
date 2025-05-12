@@ -1,0 +1,10 @@
+2025-04-29 08:46:45.318 [pool-1-thread-1] INFO  br.com.cabelo.log.LogManager - Manutenção diária de logs concluída
+2025-04-29 08:54:16.367 [main] DEBUG javax.naming.Name - Validando o nome: joaquim
+2025-04-29 08:54:16.379 [main] DEBUG javax.naming.Name - Validando o sobrenome: sa
+2025-04-29 08:54:16.379 [pool-1-thread-1] INFO  br.com.cabelo.log.LogManager - Manutenção diária de logs concluída
+08:56:59.354 [39mDEBUG[0;39m [      main] [36mjavax.naming.Name                       [0;39m - Validando o nome: joaquim
+08:56:59.360 [39mDEBUG[0;39m [      main] [36mjavax.naming.Name                       [0;39m - Validando o sobrenome: sa
+08:56:59.361 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.log.LogManager            [0;39m - Manutenção diária de logs concluída
+08:57:46.771 [39mDEBUG[0;39m [      main] [36mbr.com.cabelo.model.Nome                [0;39m - Validando o nome: joaquim
+08:57:46.775 [39mDEBUG[0;39m [      main] [36mbr.com.cabelo.model.Nome                [0;39m - Validando o sobrenome: sa
+08:57:46.777 [34mINFO [0;39m [pool-1-thread-1] [36mbr.com.cabelo.log.LogManager            [0;39m - Manutenção diária de logs concluída
